@@ -3,4 +3,6 @@
 
 # modificacion de mi mi repositorio local
 
-#Mario Larenas R
+#Ismael Gomez F.
+
+
